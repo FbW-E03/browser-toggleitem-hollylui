@@ -1,0 +1,32 @@
+header {
+  height: 100px;
+}
+
+body,
+.p-title,
+.tableStyle {
+  width: 500px;
+}
+
+.p-title,
+.tableStyle {
+  border-radius: 8px;
+}
+
+.p-title {
+  height: 50px;
+  text-indent: 20px;
+}
+
+.btnStyle {
+  width: 180px;
+  height: 30px;
+  background-color: lightblue;
+  border-radius: 8px;
+  margin: 8px;
+  border: none;
+}
+
+.tableStyle {
+  display: none;
+}
